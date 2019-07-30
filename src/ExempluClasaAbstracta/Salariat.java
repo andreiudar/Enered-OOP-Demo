@@ -1,4 +1,4 @@
-package Abstractizare3;
+package ExempluClasaAbstracta;
 
 
 public class Salariat extends Angajat {
