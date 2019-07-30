@@ -13,7 +13,7 @@ package Abstractizare;
 * */
 public interface Bicicleta {
 
-  void schimbareCadenta(int valoare);
+  void schimbareCadenta (int valoare);
   void schimbareViteza(int viteza);
   void cresteViteza(int increment);
   void franeaza(int decrement);

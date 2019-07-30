@@ -12,6 +12,8 @@ public abstract class Angajat {
   }
 
   public abstract int calculateSalary();
+
+
   public String getName() {
     return name;
   }

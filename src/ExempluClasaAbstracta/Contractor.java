@@ -8,6 +8,9 @@ public class Contractor extends Angajat {
     super(name, paymentPerHour);
     this.workingHours = workingHours;
   }
+
+
+
   @Override
   public int calculateSalary() {
     return getPaymentPerHour() * workingHours;
